@@ -18,8 +18,11 @@ This project was created to apply and reinforce foundational data engineering sk
 
 ## Scope and Limitations
 The original plan was to orchestrate the pipeline using Apache Airflow on a 12-hour schedule. However, this approach was dropped because the source websites do not provide precise timestamps in their `post_date` fields. This causes issues in the code logic and risks generating inaccurate data if enrichment is attempted using fallback methods like `fillna`. Without reliable datetime values, it's not possible to guarantee data consistency across runs.
+_Note:_ Only a few hours were available to work on this project, so it’s a basic but functional implementation.
 
 ## License
 This project is intended for educational purposes and personal portfolio use.
 
 **Built by Brix — for learning, growth, and practical application.**
+
+![flow_news_etl](https://github.com/user-attachments/assets/1315e382-8ec8-4fbf-8439-7fd2b7dbe68c)
