@@ -23,6 +23,7 @@ _Note:_ Only a few hours were available to work on this project, so it’s a bas
 ## License
 This project is intended for educational purposes and personal portfolio use.
 
-**Built by Brix — for learning, growth, and practical application.**
+**Built by Brix —  for learning, showcasing, and fun.**
 
-![flow_news_etl](https://github.com/user-attachments/assets/1315e382-8ec8-4fbf-8439-7fd2b7dbe68c)
+
+![News_ETL_Flow](https://github.com/user-attachments/assets/8446a589-2de5-4569-9dad-f26249c68288)
